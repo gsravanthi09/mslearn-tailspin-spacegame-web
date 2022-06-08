@@ -1,3 +1,3 @@
 development code
 update
-blugreen deployment
+bluegreen deployment
